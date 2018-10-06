@@ -1,0 +1,7 @@
+{
+    "prettier.eslintIntegration": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html"
+      }
+}
